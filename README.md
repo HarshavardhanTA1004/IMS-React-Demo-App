@@ -1,1 +1,1 @@
-# IMS-React-Demo-App
+# InventoryDemoReactProject
